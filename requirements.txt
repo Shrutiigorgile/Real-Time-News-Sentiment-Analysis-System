@@ -1,0 +1,8 @@
+streamlit
+pandas
+textblob
+wordcloud
+matplotlib
+requests
+streamlit-autorefresh
+python-dotenv
